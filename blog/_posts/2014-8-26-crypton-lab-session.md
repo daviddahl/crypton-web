@@ -11,7 +11,8 @@ Our paper was accepted at Hack In The Box! Cam and I will be leading a [Lab Sess
 
 **If you are attending, you should prepare the following:**
 
-* A Linux laptop or virtual machine (We mainly use __Ubuntu/Debian__ or CentOS)
+* A Linux laptop (or virtual machine, e.g.: VirtualBox) 
+* (We mainly use __Ubuntu/Debian__ or __CentOS__)
 * node.js
 * Redis
 * Postgresql
